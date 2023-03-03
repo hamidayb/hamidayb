@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamid Ayub</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-- 🔭 I’m currently working on **SchoolGram**
+- 🔭 I’m currently working in **Arbisoft**
 
 - 🌱 I’m currently learning **Git Deep Concepts, Angular**
 
